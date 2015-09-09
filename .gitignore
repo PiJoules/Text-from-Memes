@@ -2,7 +2,6 @@
 *.png
 *.jpg
 leptonica-1.70/
-tessdata/
 tesseract-ocr/
 lib/*
 

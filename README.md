@@ -13,10 +13,17 @@ OUTLINE
 
 
 ## Setup
+First instal the dependencies.
 ```sh
 $ source setup.sh # This may take a very long time
 $ source app.sh
 ```
+
+Then move the trained data into the tessdata directory:
+```sh
+$ mv tessdata/eng.traineddata /usr/local/share/tessdata/
+```
+
 
 ## Usage
 You can pass an image or URL to an image as the first argiment to `ocr.py` and run it on the command line. The resulting image is saved into `result.png`.
