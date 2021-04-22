@@ -7,7 +7,7 @@ Fabric==1.8.2
 Flask==0.10
 Flask-SQLAlchemy==1.0
 Flask-WTF==0.9.4
-Jinja2==2.7.2
+Jinja2==2.11.3
 MarkupSafe==0.18
 Pillow==2.7.0
 SQLAlchemy==0.9.3
