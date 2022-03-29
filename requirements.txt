@@ -19,7 +19,7 @@ ecdsa==0.10
 itsdangerous==0.23
 mechanize==0.2.5
 nltk==3.0.0
-paramiko==1.12.2
+paramiko==2.10.1
 pycrypto==2.6.1
 pytesseract==0.1.5
 requests==2.5.1
