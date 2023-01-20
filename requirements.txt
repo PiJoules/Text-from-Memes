@@ -17,7 +17,7 @@ argparse==1.2.1
 coverage==3.7.1
 ecdsa==0.10
 itsdangerous==0.23
-mechanize==0.2.5
+mechanize==0.4.6
 nltk==3.0.0
 paramiko==1.12.2
 pycrypto==2.6.1
